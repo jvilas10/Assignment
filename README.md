@@ -1,7 +1,4 @@
-Angular/TypeScript Forms
-
-
-Running the Application
+#Running the Application
 Install the Angular CLI: npm install -g @angular/cli
 
 Run npm install to install app dependencies
