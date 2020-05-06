@@ -1,4 +1,6 @@
 #Running the Application
+
+
 Install the Angular CLI: npm install -g @angular/cli
 
 Run npm install to install app dependencies
